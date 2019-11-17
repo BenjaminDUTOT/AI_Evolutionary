@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace AI_Evolutionary
 {
@@ -6,7 +7,10 @@ namespace AI_Evolutionary
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Courbe c = new Courbe();
+            c.addData();
+            Console.WriteLine(c.data.ElementAt(0).x.ToString());
+            Console.ReadLine();
         }
     }
 }

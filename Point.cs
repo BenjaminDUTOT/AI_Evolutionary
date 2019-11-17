@@ -6,10 +6,10 @@ namespace AI_Evolutionary
 {
     public class Point
     {
-        public int x { get; set; }
-        public int y { get; set; }
+        public float x { get; set; }
+        public float y { get; set; }
 
-        public Point(int X, int Y)
+        public Point(float X, float Y)
         {
             this.x = X;
             this.y = Y;

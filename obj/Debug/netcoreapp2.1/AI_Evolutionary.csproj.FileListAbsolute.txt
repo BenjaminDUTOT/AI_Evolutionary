@@ -1,0 +1,11 @@
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\bin\Debug\netcoreapp2.1\AI_Evolutionary.deps.json
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\bin\Debug\netcoreapp2.1\AI_Evolutionary.runtimeconfig.json
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\bin\Debug\netcoreapp2.1\AI_Evolutionary.runtimeconfig.dev.json
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\bin\Debug\netcoreapp2.1\AI_Evolutionary.dll
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\bin\Debug\netcoreapp2.1\AI_Evolutionary.pdb
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\obj\Debug\netcoreapp2.1\AI_Evolutionary.csprojAssemblyReference.cache
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\obj\Debug\netcoreapp2.1\AI_Evolutionary.csproj.CoreCompileInputs.cache
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\obj\Debug\netcoreapp2.1\AI_Evolutionary.AssemblyInfoInputs.cache
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\obj\Debug\netcoreapp2.1\AI_Evolutionary.AssemblyInfo.cs
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\obj\Debug\netcoreapp2.1\AI_Evolutionary.dll
+C:\Users\bduto\Desktop\AI_Evolutionary\AI_Evolutionary\obj\Debug\netcoreapp2.1\AI_Evolutionary.pdb
